@@ -1,6 +1,6 @@
 # Greenhouse Reference Application
 
-## Overview
+## Overview 1
 
 Greenhouse is a Java web application built for the Spring community that has two primary goals:
 
@@ -8,7 +8,7 @@ Greenhouse is a Java web application built for the Spring community that has two
    including Spring MVC, Security, Integration, Social and Mobile projects.      
 2. Help foster and support our passionate application developer community through the development of useful community services.
 
-## Features
+## Features 1
 
 * Extensive use of Spring Framework, Spring MVC, Spring Social, Spring Mobile, Spring Security, and Spring Integration projects.
 * An OAuth-based App Catalog that allows Developers to develop new client apps for which users may establish Account->App connections.
